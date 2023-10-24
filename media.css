@@ -1,0 +1,261 @@
+
+/* Large_section */
+@media(max-width:1199px){
+  .contact_us {
+    margin-top: 315px;
+  }
+  .about_2 p {
+    margin-bottom: 30px;
+  }
+}
+
+
+
+
+/* medium_section */
+@media(max-width: 991px){
+  .navbar-nav{
+    align-items: end;
+  }
+  .contact_form {
+    width: 70%;
+  }
+  .nav-link {
+    display: inline-block;
+  }
+  .contact_form form input[type="submit"] {
+    font-size: 12px;
+  }
+  .contact_us {
+    margin-top: 595px;
+  }
+  .btn2_view {
+    font-size: 10px;
+    margin-bottom: 35px;
+  }
+  .btn_view {
+    font-size: 10px;
+  }
+  .btn2_download{
+    font-size: 10px;
+    margin: 37px;
+  }
+  .btn_download{
+    font-size: 10px;
+  }
+  .navbar-brand {
+    margin-bottom: 28px;
+  }
+  .nav-link {
+    margin-bottom: 10px;
+  }
+  .about_2 p {
+    margin-bottom: 20px;
+  }
+  .about_2 img {
+    margin-top: 130px;
+}
+.about_phoneimg{
+  margin-top: 91px;
+  width: 100%;
+}
+.about_contant ul {
+  margin-bottom:20px;
+}
+.line {
+margin-bottom: 0;
+}
+.about_2 h4 {
+  margin-top: 45px;
+}
+  .pricing_footer h1 {
+    font-size: 24px;
+    margin-top: 28px;
+  }
+
+}
+
+
+
+
+
+
+
+
+
+/* Small_section */
+@media(max-width:767px)
+{
+  .btn_download{
+      font-size:10px ;
+  }
+  .btn_view {
+      font-size: 10px;
+  }
+
+  .img-fluid {
+    max-width: 60%;
+  }
+  .navbar-nav {
+    text-align: center;
+  }
+  .nav-item {
+    margin-bottom: 12px;
+  }
+  .mobile_dv {
+    text-align: center;
+  }
+  .btn_view {
+    font-size: 10px;
+
+    margin-bottom: 30px;
+  }
+  .btn_download {
+    font-size: 10px;
+
+    margin-bottom: 30px;
+  }
+  .phone {
+    display: none;
+  }
+  .phone_mobile {
+    display: inherit;
+    text-align: center;
+  }
+  .banner {
+    min-height: 95vh;
+  }
+  .banner h1 {
+    font-size: 25px;
+  }
+  .contact_form {
+    padding: 20px 20px;
+    bottom: -166px;
+    width: 80%;
+  }
+  .feature {
+    padding: 40px 0px;
+  }
+  .icon_box {
+    margin: 25px auto 10px;
+  }
+  .heading h1 {
+    margin-bottom: 10px;
+  }
+  .heading span {
+    margin: 5px auto auto;
+  }
+  .about_phoneimg {
+    text-align: center;
+  }
+  .about {
+    text-align: center;
+  }
+  .about_contant h4 {
+    margin-top: 0px;
+  }
+  .about_contant h1 {
+    font-size: 24px;
+    line-height: 37px;
+  }
+  .about_contant span {
+    margin: auto;
+  }
+  .about_contant p {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  .about_contant ul {
+    padding: 20px;
+    text-align: justify;
+    font-size: 15px;
+  }
+  .about_2 h1 {
+    font-size: 30px;
+  }
+  .about_2 span {
+    margin: auto;
+  }
+  .btn2_view {
+    font-size: 10px;
+    margin-bottom: 35px;
+  }
+  .btn2_download {
+    font-size: 10px;
+    margin-bottom: 37px;
+  }
+  .center_btn {
+    text-align: center;
+  }
+  .contact_form form input {
+    font-size: 10px;
+  }
+  .contact_form form textarea {
+    font-size: 10px;
+  }
+  .banner h4 {
+    margin-top: 30px;
+  }
+  .info i {
+    margin-top: 12px;
+  }
+  .pricing_2 {
+    min-height: 350vh;
+  }
+  .pricing_box {
+    border: 1px solid rgb(102 102 102 / 43%);
+  }
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Extra Small Section */
+@media (max-width: 575px) {
+  .contact_us {
+    margin-top: 20px;
+}
+.about_2 img {
+  margin-top: 20px !important;
+}
+
+}
+
+/* extra extra small section */
+@media (max-width: 375px) {
+  .btn2_view {
+    font-size: 14px;
+    margin-top: 37px;
+  
+}
+.btn2_view {
+  /* font-size: 14px; */
+  font-size: 11px;
+  margin-right: 15px;
+  margin-top: 37px;
+  padding: 0;
+  padding: 10px 11px;
+  margin: 0;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-right: 15px;
+}
+.btn2_download{
+  margin: 0;
+  padding: 0;
+  padding: 10px 11px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+}
+
